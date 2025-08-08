@@ -1,0 +1,9 @@
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DAL\bin\Debug\DAL.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DAL\bin\Debug\DAL.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DAL\bin\Debug\DOMINIO.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DAL\bin\Debug\DOMINIO.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DAL\obj\Debug\DAL.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DAL\obj\Debug\DAL.pdb

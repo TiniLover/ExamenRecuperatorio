@@ -1,0 +1,11 @@
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\bin\Debug\BLL.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\bin\Debug\BLL.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\bin\Debug\DAL.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\bin\Debug\DOMINIO.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\bin\Debug\DAL.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\bin\Debug\DOMINIO.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\obj\Debug\BLL.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\BLL\obj\Debug\BLL.pdb

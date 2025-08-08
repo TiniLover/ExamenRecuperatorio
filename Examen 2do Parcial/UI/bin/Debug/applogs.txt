@@ -1,0 +1,6 @@
+Info|This is a test log
+Warning|Client adapted log
+Error|This is a criticalError test
+Info|This is a test log
+Warning|Client adapted log
+Error|This is a criticalError test

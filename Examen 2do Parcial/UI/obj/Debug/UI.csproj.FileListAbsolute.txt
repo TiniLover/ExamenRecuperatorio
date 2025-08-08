@@ -1,0 +1,17 @@
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\UI.exe.config
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\UI.exe
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\UI.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\BLL.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\DOMINIO.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\SERVICIOS.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\DAL.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\BLL.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\DOMINIO.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\SERVICIOS.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\bin\Debug\DAL.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\obj\Debug\UI.exe
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\obj\Debug\UI.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\UI\obj\Debug\UI.exe.config

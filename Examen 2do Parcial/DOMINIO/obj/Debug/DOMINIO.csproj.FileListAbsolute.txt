@@ -1,0 +1,6 @@
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DOMINIO\bin\Debug\DOMINIO.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DOMINIO\bin\Debug\DOMINIO.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DOMINIO\obj\Debug\DOMINIO.csproj.AssemblyReference.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DOMINIO\obj\Debug\DOMINIO.csproj.CoreCompileInputs.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DOMINIO\obj\Debug\DOMINIO.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\DOMINIO\obj\Debug\DOMINIO.pdb

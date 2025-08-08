@@ -1,0 +1,13 @@
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\bin\Debug\SERVICIOS.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\bin\Debug\SERVICIOS.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\bin\Debug\DOMINIO.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\bin\Debug\DOMINIO.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\obj\Debug\SERVICIOS.csproj.AssemblyReference.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\obj\Debug\SERVICIOS.csproj.CoreCompileInputs.cache
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\obj\Debug\SERVICIOS.csproj.Up2Date
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\obj\Debug\SERVICIOS.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\obj\Debug\SERVICIOS.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\bin\Debug\BLL.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\bin\Debug\DAL.dll
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\bin\Debug\BLL.pdb
+C:\Users\Edwin King\Downloads\PLANTILLA REPO\SERVICIOS\bin\Debug\DAL.pdb
