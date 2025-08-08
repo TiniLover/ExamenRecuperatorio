@@ -1,0 +1,6 @@
+[2025-07-21 13:49:26] Estado: DESCONECTADO, Carga: 20%, TiempoUso: 20 min
+[2025-07-21 13:49:33] Estado: CARGANDO, Carga: 20%, TiempoCarga: 80 min
+[2025-07-21 13:49:38] Estado: CARGANDO, Carga: 50%, TiempoCarga: 50 min
+[2025-07-21 13:49:41] Estado: CARGANDO, Carga: 100%, TiempoCarga: 0 min
+[2025-07-21 13:49:42] Estado: DESCONECTADO, Carga: 100%, TiempoUso: 100 min
+[2025-07-21 13:49:42] Estado: DESCONECTADO, Carga: 75%, TiempoUso: 75 min

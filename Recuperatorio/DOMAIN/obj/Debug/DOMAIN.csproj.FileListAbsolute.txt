@@ -1,0 +1,6 @@
+C:\Users\Pc\Downloads\Parcial 3\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\Pc\Downloads\Parcial 3\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\Pc\Downloads\Parcial 3\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Pc\Downloads\Parcial 3\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\Parcial 3\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\Pc\Downloads\Parcial 3\DOMAIN\obj\Debug\DOMAIN.pdb

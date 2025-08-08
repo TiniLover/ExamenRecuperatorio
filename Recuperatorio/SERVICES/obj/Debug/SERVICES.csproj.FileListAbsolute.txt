@@ -1,0 +1,9 @@
+C:\Users\Pc\Downloads\Parcial 3\SERVICES\bin\Debug\SERVICES.dll
+C:\Users\Pc\Downloads\Parcial 3\SERVICES\bin\Debug\SERVICES.pdb
+C:\Users\Pc\Downloads\Parcial 3\SERVICES\bin\Debug\DOMAIN.dll
+C:\Users\Pc\Downloads\Parcial 3\SERVICES\bin\Debug\DOMAIN.pdb
+C:\Users\Pc\Downloads\Parcial 3\SERVICES\obj\Debug\SERVICES.csproj.AssemblyReference.cache
+C:\Users\Pc\Downloads\Parcial 3\SERVICES\obj\Debug\SERVICES.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\Parcial 3\SERVICES\obj\Debug\SERVICES.csproj.Up2Date
+C:\Users\Pc\Downloads\Parcial 3\SERVICES\obj\Debug\SERVICES.dll
+C:\Users\Pc\Downloads\Parcial 3\SERVICES\obj\Debug\SERVICES.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pc\Downloads\Parcial 3\DAL\bin\Debug\DAL.dll
+C:\Users\Pc\Downloads\Parcial 3\DAL\bin\Debug\DAL.pdb
+C:\Users\Pc\Downloads\Parcial 3\DAL\bin\Debug\DOMAIN.dll
+C:\Users\Pc\Downloads\Parcial 3\DAL\bin\Debug\DOMAIN.pdb
+C:\Users\Pc\Downloads\Parcial 3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Pc\Downloads\Parcial 3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\Parcial 3\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Pc\Downloads\Parcial 3\DAL\obj\Debug\DAL.dll
+C:\Users\Pc\Downloads\Parcial 3\DAL\obj\Debug\DAL.pdb

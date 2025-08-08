@@ -1,0 +1,16 @@
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\UI.exe.config
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\UI.exe
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\UI.pdb
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\BLL.dll
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\DAL.dll
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\DOMAIN.dll
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\SERVICES.dll
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\BLL.pdb
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\DAL.pdb
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\DOMAIN.pdb
+C:\Users\Pc\Downloads\Parcial 3\UI\bin\Debug\SERVICES.pdb
+C:\Users\Pc\Downloads\Parcial 3\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Pc\Downloads\Parcial 3\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\Parcial 3\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\Pc\Downloads\Parcial 3\UI\obj\Debug\UI.exe
+C:\Users\Pc\Downloads\Parcial 3\UI\obj\Debug\UI.pdb
