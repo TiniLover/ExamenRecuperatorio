@@ -1,0 +1,8 @@
+C:\Users\Agustin\source\repos\CasasPatronTemplate\CasasPatronTemplate\bin\Debug\CasasPatronTemplate.exe.config
+C:\Users\Agustin\source\repos\CasasPatronTemplate\CasasPatronTemplate\bin\Debug\CasasPatronTemplate.exe
+C:\Users\Agustin\source\repos\CasasPatronTemplate\CasasPatronTemplate\bin\Debug\CasasPatronTemplate.pdb
+C:\Users\Agustin\source\repos\CasasPatronTemplate\CasasPatronTemplate\obj\Debug\CasasPatronTemplate.csproj.AssemblyReference.cache
+C:\Users\Agustin\source\repos\CasasPatronTemplate\CasasPatronTemplate\obj\Debug\CasasPatronTemplate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Agustin\source\repos\CasasPatronTemplate\CasasPatronTemplate\obj\Debug\CasasPatronTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Agustin\source\repos\CasasPatronTemplate\CasasPatronTemplate\obj\Debug\CasasPatronTemplate.exe
+C:\Users\Agustin\source\repos\CasasPatronTemplate\CasasPatronTemplate\obj\Debug\CasasPatronTemplate.pdb
